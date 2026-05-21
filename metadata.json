@@ -1,0 +1,6 @@
+{
+  "name": "SonicNotes",
+  "description": "A delightful, colorful Material 3 notes app in Jetpack Compose featuring tags, search, and dynamic color pickers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
